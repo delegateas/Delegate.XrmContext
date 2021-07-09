@@ -9,7 +9,7 @@
     <PackageIcon>delegate_xrmcontext_logo.png</PackageIcon>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageId>Delegate.XrmContext</PackageId>
-    <Authors>Delegate A/S, Magnus Gether Sørensen</Authors>
+    <Authors>Delegate A/S,Martin Kasban Tange,Magnus Gether Sørensen</Authors>
     <Company>Delegate</Company>
     <Description>Tool to generate early-bound .NET classes and enumerations for MS Dynamics 365/CRM server-side coding.</Description>
     <Copyright>Copyright (c) Delegate A/S 2017</Copyright>
